@@ -1,7 +1,8 @@
 CREATE Table customer (
 	cID int PRIMARY KEY,
 	FirstName varchar(255),
-	LastName varchar(255)
+	LastName varchar(255),
+	isMember bool
 );
 
 CREATE Table address (
