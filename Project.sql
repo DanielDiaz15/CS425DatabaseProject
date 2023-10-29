@@ -126,11 +126,6 @@ CREATE table ownerAddr(
 	addrID int REFERENCES address
 );
 
-Create Table members (
-	clubMember int REFERENCES customer, --Is part of the membership program
-	joindate DATE, --when they joined
-	PRIMARY KEY (clubMember)
-);
 	
 CREATE Table auction (
 	gameID int,
