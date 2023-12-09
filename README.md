@@ -1,5 +1,5 @@
 # CS425DatabaseProject
-A repository for the CS425 Project at IIT
+A repository for the CS425 Project at IIT, uses python.
 
 Demo of Application
 [https://drive.google.com/file/d/1e06E9jbD7hnFasr_-1uju-AAUqyr28wE/view?usp=sharing ](https://drive.google.com/file/d/18ZUdB842hVVeSSHRBtohkFVsq7HWPHZd/view?usp=sharing)
